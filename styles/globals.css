@@ -1,3 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Staatliches";
+  src: url("../assets/fonts/Staatliches-Regular.ttf");
+}
 html,
 body {
   padding: 0;
